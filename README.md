@@ -17,13 +17,9 @@ INT+ node for ComfyUI with "control after generate" style functionality.
 
 ## Installation
 
-### ComfyUI Manager
-Search for "LumyINTP" in ComfyUI Manager
-
-### Manual
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_USERNAME/comfyui-LumyINTP.git
+git clone https://github.com/Lumiyumi/LumyINTP.git
 ```
 
 Restart ComfyUI after installation.
